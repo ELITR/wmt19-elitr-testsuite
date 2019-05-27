@@ -1,0 +1,74 @@
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017) (preloaded format=xelatex 2017.6.6)  24 MAY 2019 11:02
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**tmp/package/en-de.1x4-0/annotator_01/annot.15-bicycle.tex
+(./tmp/package/en-de.1x4-0/annotator_01/annot.15-bicycle.tex
+LaTeX2e <2017-04-15>
+Babel <3.10> and hyphenation patterns for 84 language(s) loaded.
+(/ha/opt/x86_64/texlive/2017/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+(/ha/opt/x86_64/texlive/2017/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/ha/opt/x86_64/texlive/2017/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+Package: fancyhdr 2016/09/06 3.8 Extensive control of page headers and footers
+\fancy@headwidth=\skip43
+\f@ncyO@elh=\skip44
+\f@ncyO@erh=\skip45
+\f@ncyO@olh=\skip46
+\f@ncyO@orh=\skip47
+\f@ncyO@elf=\skip48
+\f@ncyO@erf=\skip49
+\f@ncyO@olf=\skip50
+\f@ncyO@orf=\skip51
+)
+No file annot.15-bicycle.aux.
+\openout1 = `annot.15-bicycle.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+[1
+
+]
+Overfull \hbox (12.00203pt too wide) in paragraph at lines 60--62
+[]\TU/lmr/m/n/10 In der Tschechischen Republik legen Steuerpflichtige, die inne
+rgemeinschaftliche
+ []
+
+[2] (tmp/package/en-de.1x4-0/annotator_01/annot.15-bicycle.aux) ) 
+Here is how much of TeX's memory you used:
+ 345 strings out of 493005
+ 4243 string characters out of 6136277
+ 68964 words of memory out of 5000000
+ 4392 multiletter control sequences out of 15000+600000
+ 3672 words of font info for 18 fonts, out of 8000000 for 9000
+ 1348 hyphenation exceptions out of 8191
+ 27i,10n,43p,361b,233s stack positions out of 5000i,500n,10000p,200000b,80000s
+
+Output written on tmp/package/en-de.1x4-0/annotator_01/annot.15-bicycle.pdf (2 
+pages).

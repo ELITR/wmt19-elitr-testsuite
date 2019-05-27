@@ -1,0 +1,16 @@
+The fact that three large Member States (Germany, Italy and the United Kingdom) did not participate in the operation of the EUROCANET system was considered as a weakness of the system by the European Parliament at the end of 200814, which should be remedied by establishing a compulsory EUROFISC network.
+4.3.2 Audit findings in Germany
+The German SAI analysed data available in the Federal Central Tax Office with EUROCANET data included.
+These data served as basis to select six German taxpayers' files for review.
+Germany as well as some other countries refused to actively join EUROCANET.
+Therefore, Germany has a passive status which means that it does not send data to Brussels but is only a recipient of EUROCANET data.
+The justification for doing so is that “in the view of the government it is legally not allowed that state (governmental) institutions submit data to EUROCANET.
+Currently there is no legal basis in place that would permit to break applicable tax secrecy provisions.
+Additionally, the government has no reliable information on how those data are used within EUROCANET by the other Member States.”15 Since October 2007, the Federal Central Tax Office has analysed the EUROCANET data and has submitted them to the tax authorities of the federal states according to a procedure agreed between them.
+The German tax offices receive control information about the direct business relations of a taxpayer registered in the specific tax office with a trader from another EU Member State which was entered into EUROCANET.
+However, the German tax office does not receive any information on whether the trader of the aforementioned other EU Member State had risky business relations with traders in other Member States which also did business with the respective German trader.
+4.3.3 Evaluation
+The Czech Republic is an active participant of EUROCANET, whereas Germany has a passive status.
+From the point of view of an active participant it is unsatisfactory that other Member States refuse to become an active member.
+Consequently, the audit in this field had to be conducted in different ways.
+Nevertheless, the results did not reveal great differences with regard to detecting VAT fraud cases. The reason for this is that EUROCANET is only one tool in a risk management system.

@@ -1,0 +1,13 @@
+Durch eine Anfrage beim zuständigen lokalen Steuerverwalter in der Tschechischen Republik stellte der ORKB fest, dass der tschechische Steuerpflichtige auf der Grundlage einer Untersuchung des Steuerverwalters zusätzliche Mehrwertsteuererklärungen für die einzelnen steuerbaren Zeiträume im Jahr 2004 abgegeben hatte, in denen er den Wert erhöhte der aus anderen Mitgliedstaaten erworbenen Waren und gleichzeitig geltend gemachte Vorsteuerabzug beim Erwerb von Waren aus anderen Mitgliedstaaten.
+Der tschechische Steuerverwalter konnte jedoch aus diesen zusätzlichen Mehrwertsteuererklärungen nicht eindeutig bestimmen, ob er auch den Wert der Lieferungen des oben genannten deutschen Lieferanten einschließt.
+Auf Ersuchen der ORKB stellte die BRH fest, dass der deutsche Lieferant im September 2003 zur Mehrwertsteuer angemeldet wurde.
+Da er jedoch bei der Registrierung keine Umsatzsteuer-Identifikationsnummer beantragt hatte, wurde ihm für Transaktionen in Deutschland nur eine Identifikationsnummer zugewiesen.
+Obwohl es in der Regel nicht möglich ist, einem Steuerpflichtigen in Deutschland rückwirkend eine Umsatzsteueridentifikationsnummer zuzuweisen, hat der deutsche Steuerbeamte diesem Steuerpflichtigen 2006 rückwirkend zum 1. Mai 2004 eine Mehrwertsteueridentifikationsnummer zugewiesen.
+Das deutsche CLO weist rückwirkend eine Umsatzsteuer-ID zu, wenn der deutsche Unternehmer die Verzögerung der Zuteilung nicht verursacht hat; Zum Beispiel, wenn der CLO die Verzögerung verursacht hat, nachdem der Steuerpflichtige eine Umsatzsteuer-ID beantragt hat.
+In diesem Fall weist das CLO die Umsatzsteuer-ID rückwirkend zu, da der Unternehmer für eine innergemeinschaftliche Lieferung gemäß § 6 UStG keine eigene gültige Umsatzsteuer-ID angibt.
+Umgekehrt gibt ein deutscher Empfänger keine gültige Umsatzsteueridentifikationsnummer seines Lieferanten an, um einen innergemeinschaftlichen Erwerb zu erklären.
+Aufgrund dieser unterschiedlichen Verfahren zwischen den Mitgliedstaaten hat die deutsche CLO in diesem speziellen Fall die Umsatzsteuer-ID rückwirkend zugewiesen.
+2
+Im Rahmen des internationalen Informationsaustauschs beantragte der tschechische Steuerverwalter eine Überprüfung der Umsatzsteueranmeldung des deutschen Steuerpflichtigen.
+Das MIAS gibt ein Registrierungsdatum vom 5. März 2005 an. Das Datum des 1. Oktober 2004 ist in der vom zuständigen deutschen Steueramt ausgestellten Registrierungsurkunde des deutschen Steuerpflichtigen angegeben.
+Die deutschen Behörden erklärten in der von Deutschland übermittelten Antwort, dass die deutsche Steuerbehörde am 1. Oktober 2004 registriert wurde, dass er aus organisatorischen Gründen jedoch nur am 16. Februar 2005 in Deutschland eine Umsatzsteuer-Identifikationsnummer erhalten hatte.

@@ -1,0 +1,17 @@
+Because of some errors in entering data into the customs database, it was not possible to identify some registered import transactions, e.g. when the importer's name was missing or if there was a mistake in the Tax Identification Number (hereinafter „Tax ID").
+Consequently, it is not possible to say with certainty that the import transactions had not actually taken place.
+- For 4 export SADs from the Czech Customs Database, the aggregate statistical value of which was CZK 399,776., no matching imports were found and proven (see Paragraph 5 above).
+In this case, there exists a suspicion of a fictitious export of goods for the purpose of placing an unjustifiable and illegal VAT refund claim.
+5. Audit of Exports and Imports of Goods and Services at Selected Tax offices
+5.1. Audit Sample
+Folders of taxpaying entities were selected at Tax Offices being audited for the purpose of verifying whether taxpaying entities comply with their obligations with respect to exports and imports of goods and services, and assessing the cooperation between financial and customs authorities. The selection was based on the following criteria:
+1. The criteria used to select taxpayers from the Czech and Slovak Customs Databases were as follows: a) Highest volume of imports, b) Highest assessed VAT, c) Highest volume of exports,
+2. The criteria used to select taxpayers from records of Tax Offices were as follows: a) Amount of VAT refund claims related to imports, b) Excessive VAT refund claims, c) ExT refund claims, d) VAT exemption on exports,
+3. Taxpaying entities that had undergone a tax audit.
+The sample selection did not take into account the country of destination and was focused on risky commodities.
+5.2. Audit Findings in the Czech Republic
+A list of imports and exports of risky commodities to and from the Czech Republic in 2002 and 2003 is shown in the following table:
+5.2.1. Audit of the Selected Sample at Tax Offices
+In its audit of Tax Offices, the Czech Supreme Audit Office focused particularly on the following issues:
+- Procedures employed by Tax Offices to check VAT values shown in VAT Return Forms,
+- Cooperation between Tax Offices and customs authorities,

@@ -1,0 +1,18 @@
+The RMS should include other facts like the taxpayer’s payment behaviour, the (economic) branch or the shareholders.
+A second level of RMS is processed by the tax administrations of the federal states and focuses on processing of VAT returns.
+RMS for example generates a list of those taxpayers who declared intra-Community supplies in their VAT returns.
+This list is sent to the CLO to monitor the complete submission of RS.
+Furthermore, this type of RMS compares the intra-Community acquisitions declared in the taxpayer’s annual VAT return with the data of the VIES-system.
+The tax administrations of the federal states avoid a comparison of the quarterly data because this comparison would disclose too many mismatches which may attributed to other reasons than tax evasion or tax fraud; for example:
+– differing times when the supplier and the acquirer thought the intra-Community transaction was carried out;
+– differing accounting and declaring of sales discounts and incentives.
+In addition to comparing the VAT return data and VIES data many federal states implemented components of RMS based on the data of VAT returns, and some other facts (like the composition of the firm‘s name, the age of the shareholders, the number of employees and the taxpayer’s payment behaviour).
+Bavaria implemented a rule-based RMS, permitting a team of tax fraud specialists (hereinafter the risk managers) to program their own rules to identify potential tax fraudsters.
+This RMS is applied when the tax offices are processing the monthly VAT return.
+So the tax office in charge receives suspected cases of the RMS before the VAT is fixed.
+Since this RMS is not able to learn the risk managers have to adjust the rules on the basis of the feedback of the tax offices.
+Mecklenburg-Western Pomerania has programmed an adaptive neural network with the data of tax files in which an audit disclosed tax evasions.
+Based on these data the RMS is able to learn the characteristics of tax evasion.
+The RMS produces a list of tax files monthly, which are suspected of being involved in tax evasion.
+On the basis of this list the tax offices in charge decide to audit the proposed taxpayers.
+After the audit the auditors have to report their findings, so the RMS can learn from the results of its list.

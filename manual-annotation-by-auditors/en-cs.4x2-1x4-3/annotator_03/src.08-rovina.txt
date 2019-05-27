@@ -1,0 +1,19 @@
+The reasons for the decisions taken in the process must be documented transparently.
+Differing provisions
+In Germany, the tenders must be kept secret and only the persons commissioned to process them may have the right of access.
+Only the contracting authority may review the tenders and verify their arithmetical accuracy.
+This work may be assigned only to staff not involved in the contract award decision or the implementation of the project.
+There are no precise regulations as to who may perform the further examination and evaluation tasks.
+Where self-employed persons are commissioned to examine and evaluate the tenders, they have to honour the confidentiality of these tenders.
+They only may make decision proposals to the contracting authority.
+In the Czech Republic awarding committees are set up for checking and evaluating the tenders.
+The committees produce an evaluation report with proposals for the contract award.
+However, in both countries the ultimate decisions about contract awards are made only by the contracting authorities.
+If, in Germany, proofs or declarations required to be presented in connection with the submission of tenders are incomplete, the contracting authority must give bidders the chance to submit the missing documents within six days.
+Only if the documents have not yet been received after expiry of this deadline, the bid must be excluded.
+In the Czech Republic, the contracting authority may at its own discretion decide whether or not to give bidders the opportunity to supplement missing proofs or declarations.
+Unless the bidder presents them he must be excluded.
+In Germany, not only the total price of tenders has to be examined but also the unit prices (prices of work segments).
+If the price structure of the tender suggests that prices for parts of the work to be done have been estimated excessively low or high, the tenderer must be asked to clarify these issues.
+If he does not succeed in doing so and if the contracting authority can prove compensatory pricing, the tender in question must be excluded.
+This is to prevent that tenderers calculate their tenders on the basis of the assumption that substantial quantitative changes will be made for certain parts of the work performed, which may lead to significant increases in the cost of work projects.

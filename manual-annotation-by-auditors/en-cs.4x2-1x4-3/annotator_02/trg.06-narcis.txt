@@ -1,0 +1,18 @@
+RMS by měl zahrnovat další skutečnosti, jako je platební chování daňového poplatníka, (ekonomická) pobočka nebo akcionáři.
+Druhá úroveň RMS zpracovává daňové správy spolkových zemí a zaměřuje se na zpracování přiznání k DPH.
+RMS například vytváří seznam těch daňových poplatníků, kteří ve svých přiznáních k DPH ohlašovali dodání zboží uvnitř Společenství.
+Tento seznam je zaslán k rozhodnutí o registraci, aby bylo možné sledovat úplné podání RS.
+Tento typ RMS navíc srovnává akvizice uvnitř Společenství uvedené v ročním přiznání k DPH daňového poplatníka s údaji systému VIES.
+Daňové správy spolkových zemí se vyhýbají porovnání čtvrtletních údajů, protože toto srovnání by odhalilo příliš mnoho nesouladu, které mohou být způsobeny jinými důvody než daňovými úniky nebo daňovými podvody; například:
+– Různé doby, kdy si dodavatel a nabyvatel mysleli, že transakce uvnitř Společenství byla provedena;
+– Rozdílné účtování a vykazování prodejních slev a pobídek.
+Kromě porovnání údajů o přiznání k DPH a údajů VIES zavedly mnohé spolkové země komponenty RMS na základě údajů o přiznání k DPH a některé další skutečnosti (jako je složení názvu firmy, věk akcionářů, počet zaměstnanců a platební chování daňového poplatníka).
+Bavorsko zavedlo systém RMS založený na pravidlech, který umožňuje týmu odborníků na daňové podvody (dále jen „správci rizik“) naprogramovat svá vlastní pravidla pro identifikaci potenciálních daňových podvodníků.
+Tento RMS se používá při zpracování měsíčního přiznání k DPH ze strany daňových úřadů.
+Příslušný daňový úřad tak před stanovením DPH obdrží podezření na případy RMS.
+Vzhledem k tomu, že tento RMS se nemůže naučit, musí správci rizik upravit pravidla na základě zpětné vazby daňových úřadů.
+Mecklenburg-Vorpommersko naprogramovalo adaptivní neurální síť s údaji o daňových souborech, v nichž audit odhalil daňové úniky.
+Na základě těchto údajů se RMS může seznámit s vlastnostmi daňových úniků.
+RMS každý měsíc sestavuje seznam daňových spisů, u nichž je podezření, že jsou zapojeny do daňových úniků.
+Na základě tohoto seznamu se příslušné daňové úřady rozhodnou provést audit navrhovaných daňových poplatníků.
+Po provedení auditu musí auditoři oznámit svá zjištění, aby se RMS mohl poučit z výsledků svého seznamu.

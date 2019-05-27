@@ -1,0 +1,13 @@
+– Pro mobilní sítě (mobilní telefony), – 8525 20 99 Přenosové přístroje s přijímacím zařízením:
+– 8529 90 40 Části, součásti a součásti vhodné pro použití výhradně nebo především s přístroji patřícími do čísel 8525 až 8528
+Ostatní: Části a součásti přístrojů patřících do podpoložek 8525 10 50, 8525 20 91, 8525 20 99, 8525 40 11 a 8527 90 92.
+Položky JSD z celní databáze České a Slovenské republiky byly vzájemně přiřazeny na základě odpovídajícího obsahu různých sloupců JSD (např. fakturovaná cena, množství, hmotnost, poznávací značka vozidla přepravujícího zásilku, datum překročení hranice, číslo celního sazebníku atd.).
+Výsledky srovnání jsou uvedeny v následujících tabulkách a grafech.
+Proces párování jednotlivých vývozních a dovozních transakcí byl komplikován mimo jiné tím, že vývozní a dovozní transakce nebyly stranami deklarovány stejným způsobem.
+Například česká vývozní transakce využívala jeden JSD, zatímco odpovídající dovozní transakce na slovenské straně využívala více JSD, existovaly rozdíly v počtech položek mezi vývozním JSD a jeho odpovídajícím dovozním JSD atd.
+Dalšími faktory ovlivňujícími míru úspěšnosti procesu srovnávání nebo přiřazování byla struktura údajů v české a slovenské celní databázi, jakož i období, které uplynulo mezi registrací vývozní transakce v celní databázi jedné země a registrací odpovídající dovozní transakce v celní databázi druhé země.
+Výsledky srovnání byly použity k výběru kontrolních vzorků na auditovaných finančních úřadech.
+Pozornost byla věnována některým subjektům povinným k dani, které uskutečnily vývozní nebo dovozní transakce mezi Českou republikou a Slovenskou republikou, které nebylo možné identifikovat v obou národních celních databázích.
+Kromě toho byly některé jiné subjekty povinné k dani, pokud jde o údaje o vývozních nebo dovozních transakcích mezi Českou republikou a Slovenskou republikou, které byly zjištěny v obou národních celních databázích, vybrány za účelem ověření obchodních operací uvedených ve formulářích pro vrácení daně z přidané hodnoty.
+4.3 Pilotní audit na hraničním kontrolním stanovišti Starý Hrozenkov – Drietoma
+Hraniční kontrolní stanoviště pro pilotní audit bylo vybráno na základě společné analýzy nepřidělených položek JSD v české a slovenské celní databázi.

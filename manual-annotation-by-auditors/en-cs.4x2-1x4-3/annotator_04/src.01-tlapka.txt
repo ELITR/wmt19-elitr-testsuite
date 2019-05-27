@@ -1,0 +1,14 @@
+Because of the federal structure in Germany both the federal tax administration (in particular the CLO) and the tax administrations of the 16 federal states participate in the development and the operation of RMSs.
+Although there are joint working groups for the development neither the CLO nor the tax administrations of the federal states share a completely consistent database.
+At the level of the CLO unit ST I 2 (hereinafter the “KUSS“ – coordination unit for special VAT audits and tax investigations) collects audit findings on tax fraud in a separate database called OPUS.
+KUSS established another database called ZAUBER in cooperation with the tax offices to communicate the names of discovered “missing traders” or VAT fraudsters.
+KUSS coordinates both connected cases of national and cross-border tax fraud.
+The experience gathered by KUSS is incorporated into the development of RMS in the working groups.
+Furthermore, experts of several other units of the CLO and the MoF are entrusted with RMS duties and responsibilities.
+At the level of the CLO, a formal control is done of the composition of VAT IDs of other Member States in submitted RS of German taxpayers.
+This formal control is processed before RS data are submitted to other Member States to improve the clarity and use of the VIES data submitted (see 4.4.2).
+The verification of VAT IDs mentioned in RS is proven on the basis of O_MCTL-Codes submitted by other Member States (for the process of correcting an invalid VAT ID see also 4.4.2).
+Furthermore, the RMS of the CLO is based on the VIES data transmitted by other Member States and it creates several types of inspection notes based on several characteristics usually found in carousel transactions to detect a potential “missing trader”.
+The tax offices of the federal states are instructed to process these inspection notes and in some cases to report the result of their investigation to the CLO.
+The audit findings of the BRH confirmed that it is necessary to include all available characteristics in order to be able to assume a case of tax fraud with a sufficient probability (instead of focussing on a company’s turnover only).
+So the BRH suggested to the MoF to imply a mix of diverse characteristics for producing the reports.

@@ -1,0 +1,18 @@
+Pursuant to the Provisions of § 37 (1) of Act No. 337/1992 Coll., the tax office may repeatedly impose a fine of up to CZK 2,000,000 (EUR 67,150) on a person who does not meet his obligations of a non-monetary nature following from this or a special tax law or imposed in a decision pursuant to this law.
+Automated tax information system, which the tax office uses for technical support for administration of taxes.
+The SAO found that the tax offices mostly did not make use of the possibility of imposing a fine on taxpayers for failure to submit a VAT return.
+Submitting and processing of VAT returns in Germany
+In Germany we differentiate between preliminary monthly or quarterly VAT returns and the annual VAT return.
+Those taxpayers who are obliged to submit preliminary VAT returns nevertheless have to submit an annual VAT return.
+Even small entrepreneurs who are not obliged to pay VAT have to submit an annual VAT return.
+Taxpayers generally have to submit quarterly VAT returns by the 10th day of the month following the quarter in which VAT arises (§ 18 (2) UStG).
+However, if the VAT liability exceeded EUR 6,136 in the previous calendar year or in case of a newly established business the entrepreneur is obliged to submit monthly VAT returns by the 10th day following the respective month.
+The taxpayer may also choose to submit monthly VAT returns if there was a refund in the preceding year, which exceeded EUR 6,136 (§ 18 (2a) UStG).
+VAT returns need not be submitted if the annual VAT did not exceed EUR 512.
+The corresponding VAT liability has to be paid by the 10th day of the month following the tax period in which the VAT arose.
+A refund may lead to a more detailed investigation by the tax authorities.
+Deadlines (by law) for the processing of VAT returns and for the refund of excessive VAT do not exist.
+To achieve the refund in time, it is possible to offer a security for the repayable amount.
+It is a basic principle to process VAT returns and refunds promptly.
+Under German VAT law this time limit may be extended (§ 18 (6) UStG).
+Such extension has to be applied for separately.

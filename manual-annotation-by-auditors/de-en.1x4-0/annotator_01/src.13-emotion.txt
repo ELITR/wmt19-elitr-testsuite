@@ -1,0 +1,13 @@
+Durch eine Anfrage beim zuständigen Finanzamt in der Tschechischen Republik stellte der NKÚ fest, dass der tschechische Steuerpﬂichtige im Jahr 2004 ergänzende Umsatzsteuererklärungen für die einzelnen (unterjährigen) Besteuerungszeiträume abgegeben hatte, in denen er einen höheren Wert der Erwerbe aus anderen Mitgliedstaaten erklärte und gleichzeitig den Abzug von Vorsteuer aus den Erwerben aus den anderen Mitgliedstaaten begehrte.
+Der zuständige Sachbearbeiter des tschechischen Finanzamts konnte anhand dieser zusätzlichen Umsatzsteuererklärungen nicht eindeutig feststellen, ob in den erklärten Erwerben auch der Wert der Lieferungen des o.g. deutschen Lieferanten enthalten war.
+In Beantwortung eines Auskunftsersuchens des NKÚ stellte der BRH fest, dass der deutsche Lieferant im September 2003 als umsatzsteuerpﬂichtig registriert worden war.
+Je-doch hatte er bei der Registrierung nicht die Zuteilung einer USt-IdNr., sondern nur einer aus- schließlich für Deutschland geltenden Steuernummer beantragt.
+Obwohl es in Deutschland in der Regel nicht möglich ist, einem Steuerpﬂichtigen rückwirkend eine USt-IdNr. zuzuteilen, tat dies 2006 der zuständige Sachbearbeiter der deutschen Finanzverwaltung rückwirkend zum 1. Mai 2004.
+Das deutsche CLO teilt eine USt-IdNr. rückwirkend zu, wenn der deut sche Unternehmer die verzögerte Zuteilung nicht verursacht hat; z.B. wenn das CLO die Verzögerung nach Antrag des Steuerpﬂichtigen auf Erteilung einer USt-IdNr. verursachte.
+In diesem Fall erteilt das CLO die USt-IdNr. rückwirkend, weil der Unternehmer nach § 6 UStG für eine innergemeinschaftliche Lieferung keine gültige USt-IdNr. benötigt.
+Umgekehrt benötigt ein deutscher Erwerber nicht die (gültige) USt-IdNr. seines Lieferanten, um den innergemeinschaftlichen Erwerb zu erklären.
+Wegen dieser Verfahrensunterschiede zwischen den Mitgliedstaaten erteilte das deutsche CLO die USt-IdNr. in diesem besonderen Falle rückwirkend.
+2.
+Im Rahmen des internationalen Auskunftsaustauschs ersuchte der tschechische Finanzbeamte um die Überprüfung der umsatzsteuerlichen Registrierung des deutschen Unternehmers.
+Aus den MIAS-Daten ergibt sich als Tag der Registrierung der 5.  März 2005, während in einer vom örtlich zuständigen deutschen FA erteilten Registrierungsbescheinigung der 1. Oktober 2004 angegeben ist.
+Die deutschen Behörden teilten in ihrer Antwort mit, der deutsche Steuerpﬂichtige sei am 1. Oktober 2004 registriert worden, habe jedoch aus organisatorischen Gründen erst am 16. Februar 2005 in Deutschland eine USt-IdNr. zugeteilt bekommen.

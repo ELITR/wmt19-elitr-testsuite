@@ -1,0 +1,19 @@
+Dva betonové mosty byly identifikovány na A 17 a čtyři na D 8, jejichž cena je výrazně vyšší.
+Tyto mosty byly identifikovány částečně metodou umožňující zjištění atypických hodnot v souboru čísel a částečně regresivní analýzou s přihlédnutím ke korelaci mezi cenou mostu a jeho velikostí (vzdálenost nad regresivní křivkou je klíčem k identifikaci atypicky drahých mostů).
+Informace o atypicky vysoké ceně uvedených mostů by však měly být považovány pouze za ukazatel toho, na které mosty se zaměřit.
+Aby bylo možné dospět k obecně platnému závěru, musely by být příčiny vysoké ceny analyzovány v každém zjištěném případě.
+Jedním z důvodů může být neúčinné správní jednání, ale může být také způsobeno požadavky na ochranu životního prostředí nebo jinými přijatelnými důvody.
+Vzhledem k tomu, že české betonové mosty jsou v průměru delší než německé (viz tabulka níže), prokazatelná negativní korelace mezi cenou mostů a jejich délkou by mohla vést k očekávání, že budou levnější.
+Hypotézu o nižších nákladech českých betonových mostů podporuje také nižší cena práce ve stavebnictví v České republice než v Německu.
+Výsledky analýzy však naznačují, že cena betonových mostů na dálnici D 8 je vyšší než na dálnici A 17.
+Během společných jednání byly určeny dva možné důvody tohoto stavu.
+1.
+V Německu je většina mostů pořizována jako nezávislé projekty.
+To umožňuje účast malých a středních regionálních firem v nabídkovém řízení.
+V České republice je mnoho mostů pořizováno jako součást smlouvy na část dálnice, která je několik kilometrů dlouhá.
+Malé a střední podniky se tohoto druhu výběrového řízení neúčastní, protože je pro ně příliš velké.
+2.
+V České republice jsou mostní konstrukce rozmanitější než v Německu.
+V této souvislosti NKÚ zjistil, že o typu mostní konstrukce se rozhoduje dlouho před jejím postavením.
+Rozhodnutí se přijímá v době, kdy ŘSD podává žádost o územní rozhodnutí.
+V této době ŘSD vybírá typy mostů z několika alternativ, avšak hospodárnost hraje při rozhodování pouze malou roli.

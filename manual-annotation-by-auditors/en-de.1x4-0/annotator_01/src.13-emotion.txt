@@ -1,0 +1,13 @@
+Through an inquiry at the competent local tax administrator in the CR, the SAO found that, on the basis of an investigation by the tax administrator, the Czech taxpayer submitted additional VAT returns for the individual taxable periods in 2004, in which he increased the value of the goods acquired from other Member States and simultaneously made claims for deduction of VAT on acquisition of goods from other Member States.
+However, the Czech tax administrator could not unambiguously determine from these additional VAT returns whether they also include the value of supplies from the above-mentioned German supplier.
+On the basis of a request from the SAO, the BRH found that the German supplier was registered for VAT in September 2003.
+However, because he did not request the allocation of a VAT ID on registration, he was allocated only an identification number for transactions in Germany.
+Although it is not usually possible to allocate a taxpayer a VAT ID retroactively in Germany, in this case, in 2006 the German tax official assigned to this German taxpayer a VAT ID retroactively as of 1 May 2004.
+The German CLO allocates a VAT ID retroactively if the German entrepreneur did not cause the delay of the allocation; for example if the CLO caused the delay after the taxpayer’s application of a VAT ID.
+In this case the CLO allocates VAT ID retroactively because the entrepreneur does not provide an own valid VAT ID for an intra-Community supply according to § 6 UStG.
+Vice versa a German recipient does not provide a valid VAT ID of his supplier to declare an intra-Community acquisition.
+Because of these different processes between the Member States the German CLO allocated VAT ID retroactively in this special case.
+2.
+As part of international exchange of information, the Czech tax administrator requested review of the VAT registration of the German taxpayer.
+VIES gives a registration date of 5 March 2005, while the date 1 October 2004 is given in the certificate of registration of the German taxpayer issued by the competent local German tax office.
+The German authorities stated in the answer sent from Germany that the German tax entity was registered on 1 October 2004, but that, for organisational reasons, he was allocated a VAT ID in Germany only on 16 February 2005.

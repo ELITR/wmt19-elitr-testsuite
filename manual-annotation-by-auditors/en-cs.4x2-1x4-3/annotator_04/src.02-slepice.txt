@@ -1,0 +1,16 @@
+The reason for the major difference in the number of conducted tax audits and on-site inspections in Slovakia and in the Czech Republic is the fact that the internal regulation of the FD SR stipulates the cases where the excise duty administrator has to perform a tax audit and the respective deadlines, whereas in the Czech Republic, on-site inspections are the main tools used to check the accuracy of excise declarations or excise duty refund claims.
+The number of comparable administrative tasks in the Czech Republic grew in 2012 as a result of an increase in the number of movements in EMCS and in the number of tax declarations filed.
+In Slovakia, the number of administrative tasks between 2012 and 2015 grew slightly, a trend that was influenced by the growing number of movements in EMCS and a concurrent decrease in the number of excise returns filed.
+Assessment
+Different legal regulations resulted in major differences in the number of comparable authorisations and registrations of tax entities.
+The number of comparable administrative tasks by excise duty administrators in Slovakia and in the Czech Republic were similar in each of the audited years.
+In Slovakia, the total number of comparable tax entities, of which there is one-third fewer than in the Czech Republic, shares almost the same number of administrative tasks.
+Based on the above, it can be said that Slovakia is focused more on excise duty administrators carrying out administrative tasks, such as physical fiscal supervision.
+In the Czech Republic, greater emphasis is placed on remote supervision, e.g., through camera surveillance systems, immediate dispatch of data through a web interface, and a risk analysis.
+Computerisation of administrative tasks
+Computerisation of administrative tasks in the Czech Republic
+The excise declaration can be filed via data box.
+The Czech Customs Administration introduced interactive excise declaration forms, which, however cannot be further processed by computer.
+Furthermore, the data has to be rewritten to the tax entity’s tax account.
+The benefit of this system is a reduction of errors in filed excise declarations, which reduces the number of tasks that need to be performed by excise duty administrators to manage errors in incorrectly filed excise declarations.
+The GDC is working on a new application for computerising the excise declaration processing.

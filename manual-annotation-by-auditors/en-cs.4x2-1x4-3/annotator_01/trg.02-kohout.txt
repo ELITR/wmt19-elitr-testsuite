@@ -1,0 +1,17 @@
+Z důvodu některých chyb při vkládání údajů do celní databáze nebylo možné identifikovat některé zapsané dovozní transakce, např. když chybělo jméno dovozce nebo když byla chyba v daňovém identifikačním čísle (dále jen „daňové ID“).
+Proto nelze s jistotou říci, že se dovozní transakce ve skutečnosti neuskutečnily.
+– U čtyř vývozních JSD z české celní databáze, jejichž souhrnná statistická hodnota činila 399 776 CZK, nebyly nalezeny a prokázány žádné odpovídající dovozy (viz odstavec 5 výše).
+V tomto případě existuje podezření na fiktivní vývoz zboží za účelem neoprávněného a protiprávního uplatnění nároku na vrácení DPH.
+5. Audit vývozu a dovozu zboží a služeb na vybraných finančních úřadech
+5.1 Vzorek auditu
+Na finančních úřadech, které byly kontrolovány za účelem ověření, zda subjekty povinné k dani plní své povinnosti, pokud jde o vývoz a dovoz zboží a služeb, a posouzení spolupráce mezi finančními a celními orgány byly vybrány složky subjektů povinných k dani, které byly vybrány v rámci auditu.
+Kritéria použitá pro výběr daňových poplatníků z české a slovenské celní databáze byla následující: a) nejvyšší objem dovozu, b) nejvyšší posouzená DPH, c) nejvyšší objem vývozu,
+2. Kritéria použitá pro výběr daňových poplatníků ze záznamů daňových úřadů byla následující: a) výše nároků na vrácení DPH v souvislosti s dovozem, b) nadměrné nároky na vrácení DPH, c) nároky na vrácení DPH, d) osvobození od DPH u vývozů,
+3. subjekty, které platí daně a které prošly daňovou kontrolou.
+Výběr vzorku nezohlednil zemi určení a zaměřil se na rizikové komodity.
+5.2 Zjištění auditu v České republice
+Seznam dovozů a vývozů rizikových komodit do České republiky a z České republiky v letech 2002 a 2003 je uveden v následující tabulce:
+5.2.1 Audit vybraného vzorku u daňových úřadů
+Při auditu daňových úřadů se Nejvyšší kontrolní úřad České republiky zaměřil zejména na následující otázky:
+– postupy používané daňovými úřady ke kontrole hodnot DPH uvedených ve formulářích pro vrácení DPH,
+– spolupráce mezi daňovými úřady a celními úřady,

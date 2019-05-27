@@ -1,0 +1,14 @@
+Vzhledem k federativní (spolkové) struktuře SRN se federální daňová správa (zejména CLO) a daňové správy 16 spolkových států podílejí na vývoji a provozování RMS.
+Přestože existují společné pracovní skupiny pro vývoj, ani CLO, ani daňové správy federálních států nesdílejí zcela konzistentní databázi.
+Na úrovni CLO, shromažďuje útvar ST I 2 (dále jen „KUSS“ – koordinační útvar pro speciální audity DPH a daňová šetření) zjištění kontroly týkající se daňových podvodů ve zvláštní databázi zvané OPUS.
+KUSS zavedl ve spolupráci s finančními úřady novou databázi zvanou ZAUBER určenou pro přenos názvů firem daňových podvodníků „missing traders“.
+KUSS koordinuje související případy vnitrostátních i přeshraničních daňových podvodů.
+Zkušenosti KUSS jsou promítány do vývoje RMS v pracovních skupinách.
+Kromě toho jsou specialistům několika dalších útvarů CLO a MF svěřeny povinnosti a pravomoci spojené s RMS.
+Na úrovni CLO je zavedena formální kontrola složení VAT ID jiných členských států v SH podaných německými plátci.
+Tato formální kontrola je provedena před poskytnutím údajů z SH do jiných členských států, ke zlepšení srozumitelnosti a využití poskytnutých údajů VIES (viz 4.4.2).
+Ověření platnosti VAT ID uvedených v SH je provedeno na základě kódů O_MCTL poskytnutých jinými členskými státy (pro postup opravování neplatného VAT ID, viz. také 4.4.2).
+Kromě toho je RMS na CLO založen na údajích systému VIES předávaných jinými členskými státy a vytváří několik typů kontrolních zpráv založených na několika charakteristikách, které obvykle figurují v tzv. karuselových obchodních operacích, za účelem zjišťování potenciálních „missing traders“.
+Finanční úřady spolkových států mají instrukci, aby tyto kontrolní zprávy zpracovávaly a v některých případech podávaly zprávy o výsledcích svých zjištění CLO.
+Zjištění auditu BRH potvrdila, že je nezbytné vzít v úvahu všechny dostupné charakteristiky, má-li být s dostatečnou pravděpodobností předpokládána existence případu daňového podvodu (místo výhradního zaměření na obrat společnosti).
+BRH proto navrhl MF, aby při zpracování zpráv byly zohledněny různé charakteristiky.

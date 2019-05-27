@@ -1,0 +1,16 @@
+tmp/splits/de-en/KA_09_11_OCR/newstest2019.online-B.0.de-en.segm_30.txt	tmp/package/de-en.1x4-0/annotator_01/trg.01-silkie.txt
+tmp/splits/de-en/KA_09_11_OCR/newstest2019.MSRA.MADL.6910.de-en.segm_05.txt	tmp/package/de-en.1x4-0/annotator_01/trg.02-absence.txt
+tmp/splits/de-en/BRH_2013/ref_en.segm_22.txt	tmp/package/de-en.1x4-0/annotator_01/trg.03-dealer.txt
+tmp/splits/de-en/KA_06_27/newstest2019.online-B.0.de-en.segm_18.txt	tmp/package/de-en.1x4-0/annotator_01/trg.04-regime.txt
+tmp/splits/de-en/KA_06_27/newstest2019.MSRA.MADL.6910.de-en.segm_05.txt	tmp/package/de-en.1x4-0/annotator_01/trg.05-defence.txt
+tmp/splits/de-en/KA_06_27/ref_en.segm_31.txt	tmp/package/de-en.1x4-0/annotator_01/trg.06-health.txt
+tmp/splits/de-en/KA_09_11_OCR/newstest2019.online-B.0.de-en.segm_18.txt	tmp/package/de-en.1x4-0/annotator_01/trg.07-servant.txt
+tmp/splits/de-en/KA_09_11_OCR/newstest2019.MSRA.MADL.6910.de-en.segm_01.txt	tmp/package/de-en.1x4-0/annotator_01/trg.08-thesis.txt
+tmp/splits/de-en/BRH_2013/ref_en.segm_41.txt	tmp/package/de-en.1x4-0/annotator_01/trg.09-serpent.txt
+tmp/splits/de-en/KA_06_27/newstest2019.online-B.0.de-en.segm_15.txt	tmp/package/de-en.1x4-0/annotator_01/trg.10-artist.txt
+tmp/splits/de-en/BRH_2013/newstest2019.MSRA.MADL.6910.de-en.segm_12.txt	tmp/package/de-en.1x4-0/annotator_01/trg.11-anthrax.txt
+tmp/splits/de-en/KA_09_11_OCR/ref_en.segm_37.txt	tmp/package/de-en.1x4-0/annotator_01/trg.12-pricing.txt
+tmp/splits/de-en/KA_06_27/newstest2019.online-B.0.de-en.segm_38.txt	tmp/package/de-en.1x4-0/annotator_01/trg.13-emotion.txt
+tmp/splits/de-en/KA_09_11_OCR/newstest2019.MSRA.MADL.6910.de-en.segm_21.txt	tmp/package/de-en.1x4-0/annotator_01/trg.14-preview.txt
+tmp/splits/de-en/KA_06_27/ref_en.segm_25.txt	tmp/package/de-en.1x4-0/annotator_01/trg.15-bicycle.txt
+tmp/splits/de-en/KA_09_11_OCR/newstest2019.online-B.0.de-en.segm_09.txt	tmp/package/de-en.1x4-0/annotator_01/trg.16-hanging.txt

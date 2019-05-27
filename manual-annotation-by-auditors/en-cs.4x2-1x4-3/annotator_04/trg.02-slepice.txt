@@ -1,0 +1,16 @@
+Důvodem velkého rozdílu v počtu provedených daňových kontrol a kontrol na místě na Slovensku av České republice je skutečnost, že vnitřní předpis FD SR stanoví případy, kdy musí správce daně provést daňovou kontrolu. a příslušné lhůty, zatímco v České republice jsou kontroly na místě hlavním nástrojem kontroly správnosti prohlášení o spotřební dani nebo vrácení spotřební daně.
+Počet srovnatelných administrativních úkolů v České republice v roce 2012 vzrostl v důsledku zvýšení počtu pohybů v systému EMCS a počtu podaných daňových přiznání.
+Na Slovensku počet administrativních úkolů v letech 2012 až 2015 mírně vzrostl, což je trend, který byl ovlivněn rostoucím počtem pohybů v EMCS a současným poklesem počtu podaných daňových přiznání.
+Posouzení
+Různé právní předpisy vedly k velkým rozdílům v počtu srovnatelných povolení a registrací daňových subjektů.
+Počet srovnatelných administrativních úkolů správců spotřebních daní na Slovensku av ČR byl v každém z auditovaných let obdobný.
+Na Slovensku má celkový počet srovnatelných daňových subjektů, z nichž je o třetinu méně než v České republice, téměř stejný počet administrativních úkolů.
+Na základě výše uvedeného lze konstatovat, že Slovensko se více zaměřuje na správce spotřebních daní, kteří vykonávají administrativní úkoly, jako je fyzický daňový dohled.
+V České republice je větší důraz kladen na dálkový dohled, např. Prostřednictvím kamerových systémů, okamžitého odesílání dat přes webové rozhraní a analýzy rizik.
+Automatizace administrativních úkolů
+Automatizace administrativních úkonů v České republice
+Prohlášení o spotřební dani lze podat prostřednictvím datové schránky.
+Česká celní správa zavedla interaktivní formuláře prohlášení o spotřební dani, které však nemohou být dále zpracovávány počítačem.
+Dále musí být údaje přepsány na daňový účet daňového subjektu.
+Výhodou tohoto systému je snížení chyb v podaných prohlášeních o spotřební dani, což snižuje počet úkolů, které musí správci spotřební daně vykonávat za účelem řešení chyb v nesprávně podaných prohlášeních o spotřební dani.
+GDC pracuje na nové aplikaci pro automatizaci zpracování prohlášení o spotřební dani.

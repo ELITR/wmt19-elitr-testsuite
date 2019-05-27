@@ -1,0 +1,18 @@
+However, the reminder, the threat and the assessment of three additional fines take too much time in cases where a taxpayer may be involved in a cross-border carousel fraud.
+Those cases that were finally reported to the competent tax offices, were usually completed within one or two months.
+The tax office refused the tax exemption of the declared intra-Community supplies in 73 % of these cases.
+If taxpayers submitted the right VAT ID the tax office asked them to submit a corrected RS to the CLO, because the tax offices are not able to correct the VIES data by themselves.
+The BRH found that neither the tax offices nor the CLO monitored the submission of the corrected RS. So often taxpayers did not comply with the request.
+Due to the fact that the CLO does not have access to the VAT return data a comparison of the data on supply of goods declared in the VAT return and in the RS does not take place before submitting those data to the CLO of the other Member States.
+This check is possible only for the tax offices and is usually made when preparing a VAT audit.
+Data received from other Member States are processed in the CLO.
+Incorrect VAT IDs are selected and submitted to the respective Member States.
+The data are used for purposes of acquisition control in the tax offices.
+As soon as they are in the system the CLO checks them against the data of previous calendar quarters.
+In cases that comply with certain criteria (see 5.2) control information is created and sent to the competent tax offices.
+This is done permanently whereas a compilation of the acquisition data for all taxpayers is created later and submitted to the tax offices.
+The RMS installed for the assessment procedure then checks those data against the data of intraCommunity acquisitions.
+This system completely covers those entrepreneurs, who are not fully entitled to VAT deduction.
+Comparison and evaluation
+In the CR, taxpayers that delivered intra-Community supplies to a person registered for VAT in another Member State, submit a RS within 25 days after the end of the calendar quarter to a competent local tax office.
+Tax offices process RS and transmit the data to the CLO.

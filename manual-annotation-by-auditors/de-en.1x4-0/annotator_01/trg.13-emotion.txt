@@ -1,0 +1,13 @@
+By requesting the competent tax office in the Czech Republic, the NKÚ stated that the Czech taxpayers had submitted additional VAT returns in 2004 for the individual (sub-annual) tax periods in which they declared a higher value of acquisitions from other Member States and at the same time deducted the tax from input tax from purchases from other Member States.
+On the basis of these additional sales tax returns, the responsible clerk of the Czech tax office was unable to determine unequivocally whether the declared purchases included the value of the deliveries of the abovementioned German supplier.
+In response to a request for information from the NKÚ, the BRH found that the German supplier had been registered as a VAT payer in September 2003.
+However, when registering, he had not applied for the allocation of a VAT number, but only for a tax number that applied exclusively to Germany.
+Although it is generally not possible in Germany to pay a taxpayer retroactively a VAT ID number. In 2006, the responsible administrator of the German tax authorities did so with retroactive effect from 1 May 2004.
+The German CLO shares a VAT number. retroactively if the German entrepreneur did not cause the delayed allocation; For example, if the CLO defers the delay after request of the taxpayer to issue a VAT ID. caused.
+In this case, the CLO issues the VAT ID number. retroactive, because the entrepreneur does not have a valid VAT ID for intra-Community delivery under § 6 UStG. needed.
+Conversely, a German purchaser does not need the (valid) VAT ID. his supplier to explain the intra-Community acquisition.
+Because of these procedural differences between the Member States, the German CLO issued the VAT ID number. retroactive in this particular case.
+Second
+As part of the international exchange of information, the Czech tax office requested the verification of the VAT registration of the German entrepreneur.
+From the VIES data, the date of registration is 5 March 2005, while in a registration certificate issued by the locally competent German FA the date is 1 October 2004.
+The German authorities stated in their reply that the German taxpayer was registered on 1 October 2004, but for organizational reasons did not have a VAT ID number on 16 February 2005 in Germany. get assigned.

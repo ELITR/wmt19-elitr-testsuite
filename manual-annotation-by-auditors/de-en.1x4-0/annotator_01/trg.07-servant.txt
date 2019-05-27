@@ -1,0 +1,16 @@
+The fact that three large Member States (Germany, Italy and the United Kingdom) did not participate was seen by the European Parliament at the end of 200811 as a weakness of the system, which should be remedied by establishing a mandatory EUROFISC network.
+4.3.2 Findings in Germany
+The Federal Court of Audit evaluated data available at the Federal Central Tax Office, including those from EUROCANET.
+They served as the basis for the selection of six German taxpayers whose files were reviewed.
+Both Germany and a number of other countries refused to actively participate in EUROCANET.
+Therefore, Germany has a passive status, ie it does not send any data to Brussels itself, but is only a recipient of EUROCANET data.
+This is justified by the fact that "from the point of view of the Federal Government
+there is no unambiguous legal basis that would allow the tax confidentiality in Germany to be breached.
+In addition, the Federal Government has no reliable information on how information sent by the Member States is processed within the framework of EUROCANET. "12 Since October 2007, the Federal Central Tax Office has been evaluating the EUROCANET data and forwarding it to the tax authorities of the federal and state governments the basis of a concerted procedure.
+The German FTAs receive control notifications concerning the direct business relations of taxpayers registered with them in EUROCANET with companies from other EU countries.
+However, the relevant German FA does not receive any information as to whether the company from the above-mentioned other EU Member State has business relations with a company established in another Member State which is also in business relationship with the German company in the control notification.
+4.3.3 Evaluation
+The CZ is an active participant in EUROCANET, while Germany has only a passive status.
+From the point of view of an active participant, it is unsatisfactory that other Member States refuse active participation.
+Accordingly, the test had to be carried out differently in this area.
+However, there were no significant differences in the detection of VAT fraud. This is because EUROCANET is only one component of the risk management system.

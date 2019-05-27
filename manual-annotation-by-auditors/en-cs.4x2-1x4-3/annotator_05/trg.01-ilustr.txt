@@ -1,0 +1,13 @@
+— Pokud jde o položky JSD, u nichž byly zjištěny rozdíly mezi českou celní databází a databázemi daňových úřadů, byly od Generálního ředitelství cel České republiky vyžádány výtisky příslušných JSD, včetně k nim přiložených faktur.
+Audit mimo jiné zjistil, že databáze JSD daňových úřadů neobsahovaly například záznamy o JSD souvisejících s dovozem a vývozem, které by odpovídaly úhrnným hodnotám DPH ve výši 3 622 000,- resp. 9 359 000,- Kč.
+5.2.1.1 Rozdíly zjištěné auditem
+Srovnání databází JSD u daňových úřadů a kumulativních daňových závazků v letech 2002 a 2003 podle formuláře pro vrácení DPH u vybraného vzorku subjektů povinných k dani určilo tyto rozdíly:
+Rozdíly lze přičíst zejména:
+- Časový rozdíl mezi fyzickým dokončením dovozního plnění a datem žádosti o vrácení DPH vyměřené za dovezené zboží.
+Subjekt povinný k dani mohl podat žádost o vrácení DPH u dovezeného zboží do tří let od konce daňového období, v němž bylo zboží propuštěno do příslušného režimu; pokud jde o postup dočasného použití, do tří let od konce daňového období, v němž byl režim ukončen nebo ukončen.
+- Časový rozdíl mezi fyzickým dokončením vývozní transakce a datem, kdy daňový subjekt obdržel příslušný JSD.
+Subjekt povinný k dani byl povinen předložit údaje o uskutečněných vývozních plněních osvobozených od DPH po opuštění země ve formuláři pro vrácení DPH, a to nejdříve v daňovém období, v němž dotyčné zboží opustilo zemi, a podléhat tomu, že subjekt povinný k dani obdržel daňový doklad, tj. JSD.
+- Nedodržení povinností a povinností subjektů povinných k dani, pokud jde o vykazování dovozních a vývozních plnění ve formulářích pro vrácení DPH.
+V některých případech subjekty povinné k dani nevykazovaly ve svých formulářích pro vrácení DPH správné údaje o dovozních a vývozních plněních.
+Vzhledem k tomu, že subjekty povinné k dani nemusely přikládat seznamy JSD ke svým formulářům pro vrácení DPH, ztížila se možnost kontroly a ověřování vrácení DPH nebo žádostí o osvobození od DPH ze strany daňových úřadů.
+5.2.2 Spolupráce daňových a celních orgánů

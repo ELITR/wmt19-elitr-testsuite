@@ -1,0 +1,7 @@
+Michal Novak pise:
+
+en-cs dokumenty som generoval s 3 prekryvajucimi sa dokumentami (rovina, pahorek, kohout), en-de a de-en logicky s 0.
+V subore tmp/package/<pack_label>/segment_align.txt su mapovania jednotlivych segmentov na anotacne dokumenty. Riadkov je teda tolko, kolko segmentov sa bude anotovat a stlpce su 2. Napr. distribuciu prekladovych systemov v en-cs zistis nasledovne:
+cat tmp/package/en-cs.4x2-1x4-3/segment_align.txt | cut -f1 | cut -f5 -d '/' | sed 's/\.segm_.*\.txt$//' | sort | uniq -c | sort -nr
+
+Balicky, ktore im posleme, budu vyzerat rovnako, ale budu obsahovat iba *.pdf subory.

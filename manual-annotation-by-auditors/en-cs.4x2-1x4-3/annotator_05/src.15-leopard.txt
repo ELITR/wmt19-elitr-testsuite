@@ -1,0 +1,14 @@
+The objective of the RFI is, e.g. to demonstrate performance of a given transaction in the framework of intra-Community performances, verification of a certain VAT ID, etc.
+SIE involves provision of information that is important for a tax administrator in another EU member country.
+Cooperation in the area of information exchange is governed by Council Regulation (EC) No. 1798/2003.
+Pursuant to Art. 8 of the Regulation, the limit for response to a RFI equals 3 months.
+The conditions for admissibility of requests are regulated in the Commission Decision of November 15, 2004 which stipulates that, unless the countries involved agree otherwise, the RFI must concern transactions with a value of at least EUR 1 500 excl. VAT.
+If a RFI concerns a transaction with a value of less than EUR 15 000 excl. VAT, the requested authority may refuse to respond with respect to its workload.
+The procedure in dealing with received RFI by the tax administration of the CR, including specification of internal time limits stipulated for processing at individual organizational levels, is depicted in the following chart.
+In the SR, the time limit for responding to a RFI by the tax offices was internally set at 2 months so that the three-month limit pursuant to Council Regulation (EC) No. 1798/2003 can be complied with.
+The MF CLO received a total of 29 RFI and 3 SIEs from the SR in the period from May 1, 2004 to June 30, 2005.
+Of 29 RFI received, 26 (i.e. 89.7 %) were dealt with within the set deadline of 3 months and 3 (i.e. 10.3 %) were dealt with after the deadline.
+During the same period, the TD CLO received a total of 71 RFI and 7 SIE from the CR.
+Of 71 RFI received, 64 (i.e. 90.1 %) were dealt with within the set deadline of 3 months and 5 (i.e. 7.0 %) were dealt with after the deadline (in 2 remaining cases, it was not possible to determine the deadline on the basis of the submitted materials).
+More detailed information on the duration of addressing RFI accepted by the MF CLO or TD CLO, as appropriate, is given in Graph No. 1.
+The reasons for sending RFI, as stated in the SCAC forms, are described in the following table.

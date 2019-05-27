@@ -1,0 +1,16 @@
+The SAO SR established that exchange of SEED files between the Slovak and Czech customs authorities took place normally once a month and exceptionally more times a month during the audited period.
+The Slovak Customs received 22 SEED files and sent 25 SEED files.
+In the CR the data are fed into the SEED from the national register of persons authorised to handle excisable products and the register of issued authorisations on handling these products.
+The Czech customs offices do not have access to the international database SEED.
+Applications of customs offices to obtain information from the SEED Database of other Member States are presented to and obtained via the ELO CR.
+EWSE - Early Warning System is aimed at checking movement of excisable products and it also notifies about movement of high-risk consignments.
+As a high-risk consignment is designated the movement of some excisable products in amount exceeding limits set by the Commission Regulation and movements which are classified as high-risk by the tax authority.
+Information exchange is made in two forms:
+- informative message - sent in case where amount of products exceeds set limits,
+- warning message - sent where risk analysis classifies certain movement of products as high risk.
+To identify the level of risk the ELO SR uses the SEED Database to verify data in the accompanying document and to send a warning message.
+When data in the SEED Database differ from the data in the accompanying document (e.g. different registration number of the consignee or domicile of the consignee), the ELO SR sends a warning message to the ELO of the Member State competent for the products recipient.
+While drafting messages the ELO SR abides by Commission Regulations CED 317 and CED 457 for tax and customs business, which inter alia establish the type and volume of products in measurement units for the purposes of informative and warning messages.
+During the audited period, the ELO SR sent one warning message to the ELO CR.
+In the CR information on started movements of products in volume exceeding set limit are generated automatically upon entry of data from the accompanying document to the Database after the approval of the movement.
+If the tax authority in the CR classifies the consignment as high-risk following its own analysis, drafts a warning message and sends it via the ELO CR to the respective Member State.

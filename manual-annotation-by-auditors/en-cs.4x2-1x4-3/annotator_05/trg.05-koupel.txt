@@ -1,0 +1,16 @@
+Zvláštní zástupce NKÚ zjistil, že výměna souborů SEED mezi slovenskými a českými celními orgány probíhala v kontrolovaném období obvykle jednou měsíčně a výjimečně vícekrát měsíčně.
+Slovenští celníci obdrželi 22 souborů SEED a zaslali 25 souborů SEED.
+V ČR jsou údaje vkládány do SEED z národního registru osob oprávněných manipulovat s výrobky podléhajícími spotřební dani a z registru vydaných povolení pro manipulaci s těmito výrobky.
+České celní úřady nemají přístup k mezinárodní databázi SEED.
+Žádosti celních úřadů o získání informací z databáze SEED jiných členských států jsou předkládány a získávány prostřednictvím ELO ČR.
+EWSE – Systém včasného varování je zaměřen na kontrolu pohybu výrobků podléhajících spotřební dani a rovněž upozorňuje na pohyb vysoce rizikových zásilek.
+Vzhledem k tomu, že vysoce riziková zásilka je označena jako pohyb některých výrobků podléhajících spotřební dani v množství překračujícím limity stanovené nařízením Komise a pohyb, který je daňovým orgánem klasifikován jako vysoce rizikový.
+Výměna informací probíhá ve dvou formách:
+– informativní zpráva – zasílá se v případě, že množství výrobků překračuje stanovené limity,
+– výstražná zpráva – zasílá se v případě, že analýza rizik klasifikuje určitý pohyb výrobků jako vysoce rizikový.
+Pro identifikaci úrovně rizika používá zvláštní subjekt pro ELO databázi SEED k ověření údajů v průvodním dokladu a k zaslání varovné zprávy.
+Pokud se údaje v databázi SEED liší od údajů v průvodním dokladu (např. odlišné registrační číslo příjemce nebo bydliště příjemce), zasílá zvláštní subjekt pro ELO varovnou zprávu posledně uvedenému členskému státu příslušnému pro příjemce produktů.
+Při vypracovávání zpráv se ELO SR řídí nařízeními Komise CED 317 a CED 457 pro daňovou a celní činnost, která mimo jiné stanoví druh a objem produktů v měrných jednotkách pro účely informativních a varovných zpráv.
+Během kontrolovaného období zaslala ELO SR ELO CR jednu varovnou zprávu.
+V CR se informace o počátečních pohybech výrobků o objemu přesahujícím stanovený limit generují automaticky po zadání údajů z průvodního dokladu do databáze po schválení pohybu.
+Pokud daňový orgán v CR klasifikuje po vlastní analýze zásilku jako vysoce rizikovou, vypracuje výstražnou zprávu a zašle ji prostřednictvím ELO CR příslušnému členskému státu.

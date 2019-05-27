@@ -1,0 +1,18 @@
+Die Mahnung, die Drohung und die Bewertung von drei zusätzlichen Geldbußen nehmen jedoch zu viel Zeit in Anspruch, wenn ein Steuerpflichtiger in einen grenzübergreifenden Karussellbetrug verwickelt sein könnte.
+Die Fälle, die schließlich den zuständigen Finanzämtern gemeldet wurden, wurden in der Regel innerhalb von ein bis zwei Monaten abgeschlossen.
+In 73% dieser Fälle lehnte das Finanzamt die Steuerbefreiung der deklarierten innergemeinschaftlichen Lieferungen ab.
+Wenn die Steuerpflichtigen die richtige Umsatzsteuer-ID einreichten, forderte das Finanzamt sie auf, dem CLO eine korrigierte RS vorzulegen, da die Finanzämter nicht in der Lage sind, die VIES-Daten selbst zu korrigieren.
+Die BRH stellte fest, dass weder die Finanzämter noch die CLO die Vorlage der korrigierten RS überwachten. So oft kamen die Steuerzahler der Aufforderung nicht nach.
+Da die CLO keinen Zugang zu den MwSt-Rückgabendaten hat, findet ein Vergleich der Daten über die Lieferung von Waren, die in der Mehrwertsteuererklärung und in der RS deklariert sind, nicht vor der Übermittlung dieser Daten an den CLO der anderen Mitgliedstaaten statt.
+Diese Prüfung ist nur für die Finanzämter möglich und wird in der Regel bei der Vorbereitung einer Mehrwertsteuerprüfung vorgenommen.
+Die von anderen Mitgliedstaaten erhaltenen Daten werden im CLO verarbeitet.
+Falsche Mehrwertsteuerausweise werden ausgewählt und den jeweiligen Mitgliedstaaten vorgelegt.
+Die Daten werden für Zwecke der Akquisitionskontrolle in den Finanzämtern verwendet.
+Sobald sie sich im System befinden, prüft der CLO sie anhand der Daten früherer Kalenderquartale.
+In Fällen, die bestimmten Kriterien entsprechen (siehe 5.2), werden Kontrollinformationen erstellt und an die zuständigen Finanzämter übermittelt.
+Dies geschieht permanent, während eine Zusammenstellung der Erfassungsdaten für alle Steuerzahler später erstellt und den Finanzämtern vorgelegt wird.
+Das für das Bewertungsverfahren installierte RMS prüft diese Daten dann auf die Daten von innergemeinschaftlichen Erwerben.
+Dieses System gilt vollständig für Unternehmer, die keinen vollen Anspruch auf Vorsteuerabzug haben.
+Vergleich und Bewertung
+In der Tschechischen Republik legen Steuerpflichtige, die innergemeinschaftliche Lieferungen an eine in einem anderen Mitgliedstaat für die Mehrwertsteuer registrierte Person erbracht haben, innerhalb von 25 Tagen nach Ablauf des Kalenderviertels bei einem zuständigen örtlichen Finanzamt eine RS vor.
+Die Finanzämter verarbeiten RS und übermitteln die Daten an die CLO.

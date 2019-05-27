@@ -1,0 +1,14 @@
+Cílem RFI je např. prokázat výkonnost dané transakce v rámci výkonů uvnitř Společenství, ověření určitého DIČ atd.
+SIE zahrnuje poskytování informací, které jsou důležité pro správce daně v jiné členské zemi EU.
+Spolupráce v oblasti výměny informací se řídí nařízením Rady (ES) č. 1798/2003.
+Podle článku 8 nařízení se limit pro odezvu na RFI rovná třem měsícům.
+Podmínky přípustnosti žádostí jsou upraveny v rozhodnutí Komise ze dne 15. listopadu 2004, které stanoví, že pokud se zúčastněné země nedohodnou jinak, musí se finanční instituce týkat transakcí v hodnotě nejméně 1 500 EUR bez DPH.
+Pokud se finanční instituce týká transakce v hodnotě nižší než 15 000 EUR bez DPH, může dožádaný orgán odmítnout odpovědět na její pracovní zátěž.
+Postup při vyřizování obdržených finančních institucí daňovou správou ČR, včetně upřesnění vnitřních lhůt stanovených pro zpracování na individuální organizační úrovni, je znázorněn v následujícím grafu.
+V SR byla lhůta pro odpověď finančních institucí daňovými úřady interně stanovena na 2 měsíce, aby bylo možné dodržet tříměsíční lhůtu podle nařízení Rady (ES) č. 1798/2003.
+V období od 1. května 2004 do 30. června 2005 obdržel CLO pro MF od SR celkem 29 finančních nástrojů a 3 SIE.
+Z 29 obdržených finančních nástrojů bylo 26 (tj. 89,7 %) vyřízeno ve stanovené lhůtě tří měsíců a 3 (tj. 10,3 %) byly vyřízeny po stanovené lhůtě.
+Ve stejném období obdržel CLO pro TD celkem 71 finančních nástrojů a 7 SIE od ČR.
+Ze 71 obdržených RFI bylo 64 (tj. 90,1 %) vyřízeno ve stanovené lhůtě tří měsíců a pět (tj. 7,0 %) bylo vyřízeno po stanovené lhůtě (ve dvou zbývajících případech nebylo možné určit lhůtu na základě předložených materiálů).
+Podrobnější informace o době trvání vyřízení RFI, kterou přijal subjekt kolektivního investování nebo případně subjekt kolektivního investování, jsou uvedeny v grafu č. 1.
+Důvody pro zaslání RFI, jak jsou uvedeny ve formulářích SCAC, jsou popsány v následující tabulce.
