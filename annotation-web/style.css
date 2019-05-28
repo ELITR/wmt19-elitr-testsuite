@@ -1,0 +1,134 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+html,
+body {
+  width: 100%;
+  height: 100%;
+}
+body {
+  background: #ffe97f;
+  font-family: 'Roboto', sans-serif;
+  display: flex;
+  flex-flow: column;
+  align-items: center;
+  padding: 10px;
+}
+form {
+  background: #fff;
+  width: 100%;
+  margin: auto;
+  padding: 30px;
+  min-width: 100px;
+  box-shadow: 0 2px 10px 0 rgba(0, 0, 0, 0.16), 0 2px 5px 0 rgba(0, 0, 0, 0.26);
+  border-radius: 3px;
+}
+form label {
+  font-weight: 700;
+}
+h1 {
+  margin-top: 0px;
+  color: #000000;
+}
+div.item + div.item {
+  margin-top: 10px;
+}
+.annot-info {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 20px;
+}
+.annot-info label {
+  margin-right: 10px;
+
+}
+.transl {
+  margin-bottom: 50px;
+}
+.inline-radio {
+  display: flex;
+  overflow: hidden;
+}
+.inline-radio div {
+  position: relative;
+}
+.inline-radio div.radio-title {
+  flex: 1;
+}
+.inline-radio div.radio-items {
+  flex: 2;
+}
+.radio-title {
+  display: flex;
+  align-items: center;
+  justify-content: left;
+  font-weight: bold;
+}
+.radio-items {
+  display: flex;
+  overflow: hidden;
+  border-radius: 3px;
+  border: 1px solid #b6b6b6;
+}
+.radio-items div {
+  flex: 1;
+  border-right: 1px solid #b6b6b6;
+}
+.radio-items div:last-child {
+  border-right: 0;
+}
+.radio-items input {
+  width: 100%;
+  height: 60px;
+  opacity: 0;
+}
+.radio-items label {
+  position: absolute;
+  top: 0;
+  left: 0;
+  color: #000000;
+  width: 100%;
+  height: 100%;
+  background: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  font-weight: normal;
+  pointer-events: none;
+}
+.inline-radio input:checked + label {
+  background: #ff8c00;
+  font-weight: 500;
+  color: #fff;
+}
+.textbox {
+  display: flex;
+  align-items: stretch;
+  height: 100px;
+}
+.textbox label {
+  flex: 1;
+  display: flex;
+  align-items: center;
+}
+.textbox textarea {
+  flex: 2;
+  height: auto;
+}
+.submit {
+  margin-top: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: stretch;
+  height: 50px;
+}
+.submit input {
+  background: #ff8c00;
+  color: #fff;
+  font-weight: bold;
+  width: 500px; 
+}
+
