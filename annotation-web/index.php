@@ -47,7 +47,7 @@
 	</div>
 </div> 
 <div class="item inline-radio">
-	<div class="radio-title"><span>Slovní zásoba - porozumění textu (z hlediska ???užitého lexika???)</span></div>
+	<div class="radio-title"><span>Slovní zásoba - porozumění textu (z hlediska užitého lexika)</span></div>
 	<div class="radio-items">
 	<div><input type="radio" name="lex-compreh" value="0"/><label>Zásadně narušuje</label></div>
 	<div><input type="radio" name="lex-compreh" value="1"/><label>Spíš narušuje</label></div>
@@ -56,7 +56,7 @@
 	</div>
 </div> 
 <div class="item inline-radio">
-	<div class="radio-title"><span>Syntax</span></div>
+	<div class="radio-title"><span>Syntax a slovosled</span></div>
 	<div class="radio-items">
 	<div><input type="radio" name="syntax" value="0"/><label>Zásadně narušuje</label></div>
 	<div><input type="radio" name="syntax" value="1"/><label>Spíš narušuje</label></div>
